@@ -13,3 +13,6 @@
 |SCROLL UP|Zoom in|
 |SCROLL DOWN|Zoom out|
 |X|Toggle object-wireframe view|
+
+## Sample render
+![sample-render](https://github.com/wsaldana/OpenGL/blob/main/render.png)
